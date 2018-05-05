@@ -1,0 +1,10 @@
+1,Soccer City,84490,4
+2,Ellis Park,55686,4
+3,Cape Town,64100,2
+4,Moses Mabhida,62760,3
+5,Loftus Versfeld,42858,11
+6,Nelson Mandela Bay,42486,10
+7,Peter Mokaba,41733,9
+8,Mbombela,40929,7
+9,Free State,40911,1
+10,Royal Bafokeng,38646,12

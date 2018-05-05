@@ -1,0 +1,12 @@
+1,Bloemfontein
+2,Cape Town
+3,Durban
+4,Johannesburg
+5,Kimberley
+6,Klerksdorp
+7,Nelspruit
+8,Orkney
+9,Polokwane
+10,Port Elizabeth
+11,Pretoria
+12,Rustenburg

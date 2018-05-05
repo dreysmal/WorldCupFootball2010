@@ -1,0 +1,32 @@
+1,Carlos Alberto Parreira,1
+2,Javier Aguirre,2
+3,scar Tabrez,3
+4,Raymond Domenech,4
+5,Diego Maradona,5
+6,Lars Lagerbck,6
+7,Huh Jung-moo,7
+8,Otto Rehhagel,8
+9,Fabio Capello,9
+10,Bob Bradley,10
+11,Rabah Sadane,11
+12,Matja Kek,12
+13,Joachim Lw,13
+14,Pim Verbeek,14
+15,Radomir Anti,15
+16,Milovan Rajevac,16
+17,Bert van Marwijk,17
+18,Morten Olsen,18
+19,Takeshi Okada,19
+20,Paul Le Guen,20
+21,Marcello Lippi,21
+22,Gerardo Martino,22
+23,Ricki Herbert,23
+24,Vladimr Weiss,24
+25,Dunga,25
+26,Kim Jong-hun,26
+27,Sven-Gran Eriksson,27
+28,Carlos Queiroz,28
+29,Vicente del Bosque,29
+30,Ottmar Hitzfeld,30
+31,Reinaldo Rueda,31
+32,Marcelo Bielsa,32
